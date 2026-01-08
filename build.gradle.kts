@@ -3,4 +3,4 @@ plugins {
 }
 
 group = "top.ryuu64.contract"
-version = "0.4.0"
+version = "0.5.0"
